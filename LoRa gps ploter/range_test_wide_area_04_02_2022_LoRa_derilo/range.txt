@@ -1,0 +1,26 @@
+calculator
+https://boulter.com/gps/distance/
+
+Home location
+46.057030,14.516965
+
+Max range North
+46.060257,14.513802
+
+Distance is 0.43 kilometers NW (325°)	
+
+Max range  West
+46.057594,14.512962
+
+Distance is 0.32 kilometers W (281°)	
+
+Max range South
+46.053432,14.516802
+
+Distance is 0.40 kilometers S (181°)	
+
+Max range East 
+46.059727,14.520156
+
+Distance is 0.39 kilometers NE (39°)		
+
